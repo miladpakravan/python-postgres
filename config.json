@@ -1,0 +1,10 @@
+{
+    "db": {
+        "host"    : "127.0.0.1",
+        "user"    : "postgres",
+        "passwd"  : "2551",
+        "dbname"  : "rassam",
+        "dbtable" : "dataset",
+        "port"    : "5432"
+    }
+}
