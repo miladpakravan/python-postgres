@@ -1,5 +1,5 @@
-# Rassam
-Rassam Assignment Project.
+# Description
+Python/Postgres Sample Project.
 ## Tested Environment:
 - Python 3.8
 - Postgres 12
